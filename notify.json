@@ -1,0 +1,26 @@
+{
+	"rows": [{
+			"name": "Opening",
+			"information": "Exun 2021’s Opening Ceremony",
+			"date": "2022-01-14T12:00:00"
+		},
+
+		{
+			"name": "Make-A-Thon Pitching",
+			"information": " Pitch your solutions to the judges in the time allotted. Qualifiers from round 1 will compete on a web-based simulator based on the Arduino programming API to have the fastest time.",
+			"date": "2022-01-14T15:00:00"
+		},
+
+		{
+			"name": "Open Quiz Prelims",
+			"information": "This event is an enigmatic quiz based on the field of computers, technology, and recent events in the world of IT - a battleground for seasoned quizzers to test their wits under extreme pressure.",
+			"date": "2022-01-14T16:00:00"
+		},
+    
+		{
+			"name": "Designathon Finals",
+			"information": "The participants will be provided with design prompts, and the team members, consisting of 2D and/or 3D designers, will be required to make use of their skills and tackle the given problems creatively.",
+			"date": "2022-01-20T13:00:00"
+		}
+	]
+}
