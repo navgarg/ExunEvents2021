@@ -6,9 +6,19 @@
 			"about": "Join us for an interactive session with Exun alumni. We encourage you to ask questions about building good products, working in technology landscape and much more!"
 		},
 		{
-			"title": "Exun Fireside 2023",
-			"videoUrl": "https://www.youtube.com/watch?v=KId5b4Yd1NQ",
-			"about": "Join us for an interactive session with Exun alumni. We encourage you to ask questions about building good products, working in technology landscape and much more!"
+			"title": "Algorithms for the Internet: How Economics & Computer Science Interact",
+			"videoUrl": "https://www.youtube.com/watch?v=Q9S4IEnl1B8",
+			"about": "In this talk, Aurojit Panda will briefly review how the correctness of the Internet's routing algorithms is predicated on arguments about how the people and machines that it connects are likely to behave as rational entities; how the emergence of new applications and concerns is changing these incentives; and how this can impact the future of the Internet."
+		},
+		{
+			"title": "Series of Interesting Problems One Solves as a Hardware Engineer",
+			"videoUrl": "https://www.youtube.com/watch?v=nQLd6DAM-lg",
+			"about": "Tushit pursued his B.Tech and M.Tech degrees in Electrical Engineering from IIT Madras. Since 2003, he has been working in the semiconductor industry, where he built hardware, software, and algorithms for products ranging from Smartwatches, Cameras, RFIDs, Wi-Fi Routers, and POS devices."
+		},
+		{
+			"title": "Why Language Understanding is the Hardest Piece of the AI Puzzle?",
+			"videoUrl": "https://www.youtube.com/watch?v=Q96LHXkdKEo",
+			"about": "Monojit Choudhury has a lot of experience in the field of computational linguistics. He also holds the position as the General Chair of the Panini Linguistics Olympiad and Founding Co-chair of the Asia Pacific Linguistics Olympiad. This talk will be an interactive session where Mr. Choudhury will introduce himself and his work, and then open the session to QnA."
 		}
 		]
 }
