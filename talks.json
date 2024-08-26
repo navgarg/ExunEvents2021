@@ -3,8 +3,8 @@
 	"rows": [
 		{
 			"title": "Algorithms for the Internet: How Economics & Computer Science Interact",
-			"image": "aurojit",
 			"videoUrl": "https://www.youtube.com/watch?v=Q9S4IEnl1B8",
+			"image": "aurojit",
 			"about": "In this talk, Aurojit Panda will briefly review how the correctness of the Internet's routing algorithms is predicated on arguments about how the people and machines that it connects are likely to behave as rational entities; how the emergence of new applications and concerns is changing these incentives; and how this can impact the future of the Internet."
 		},
 		{
