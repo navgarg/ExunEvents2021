@@ -2,7 +2,7 @@
   {
     "year": "2023-24",
 
-    "alumni": [
+    "members": [
       {
         "name": "Pratyush Vempati",
         "role": "President",
@@ -117,7 +117,7 @@
   },
   {
     "year": "2022-23",
-    "alumni": [
+    "members": [
       {
         "name": "Kavin Desi Valli",
         "role": "President",
@@ -217,7 +217,7 @@
   },
   {
     "year": "2021-22",
-    "alumni": [
+    "members": [
       {
         "name": "Ashvin Verma",
         "role": "President",
@@ -377,7 +377,7 @@
   },
   {
     "year": "2020-21",
-    "alumni": [
+    "members": [
       {
         "name": "Natasha Arya",
         "role": "President",
@@ -462,7 +462,7 @@
   },
   {
     "year": "2019-20",
-    "alumni": [
+    "members": [
       {
         "name": "Kabir Goel",
         "role": "President",
@@ -557,7 +557,7 @@
   },
   {
     "year": "2018-19",
-    "alumni": [
+    "members": [
       {
         "name": "Shashwat Goel",
         "role": "President",
@@ -632,7 +632,7 @@
   },
   {
     "year": "2017-18",
-    "alumni": [
+    "members": [
       {
         "name": "Ayush Singla",
         "role": "President",
@@ -707,7 +707,7 @@
   },
   {
     "year": "2016-17",
-    "alumni": [
+    "members": [
       {
         "name": "Ananay Arora",
         "role": "President",
@@ -857,7 +857,7 @@
   },
   {
     "year": "2015-16",
-    "alumni": [
+    "members": [
       {
         "name": "Devansh Gandhi",
         "role": "President",
@@ -957,7 +957,7 @@
   },
   {
     "year": "2014-15",
-    "alumni": [
+    "members": [
       {
         "name": "Bharat Kashyap",
         "role": "President",
@@ -1067,7 +1067,7 @@
   },
   {
     "year": "2013-14",
-    "alumni": [
+    "members": [
       {
         "name": "Akshay Dadhwal",
         "role": "President",
@@ -1187,7 +1187,7 @@
   },
   {
     "year": "2012-13",
-    "alumni": [
+    "members": [
       {
         "name": "Trijeet Mukhopadhyay",
         "role": "President",
@@ -1277,7 +1277,7 @@
   },
   {
     "year": "2011-12",
-    "alumni": [
+    "members": [
       {
         "name": "Bhuwan Khattar",
         "role": "President",
@@ -1377,7 +1377,7 @@
   },
   {
     "year": "2010-11",
-    "alumni": [
+    "members": [
       {
         "name": "Aditya Jain",
         "role": "President",
@@ -1472,7 +1472,7 @@
   },
   {
     "year": "2009-10",
-    "alumni": [
+    "members": [
       {
         "name": "Akriti Gaur",
         "role": "President",
@@ -1532,7 +1532,7 @@
   },
   {
     "year": "2008-09",
-    "alumni": [
+    "members": [
       {
         "name": "Kartikeya Asthana",
         "role": "President",
@@ -1627,7 +1627,7 @@
   },
   {
     "year": "2007-08",
-    "alumni": [
+    "members": [
       {
         "name": "Manas Gautam",
         "role": "President",
@@ -1712,7 +1712,7 @@
   },
   {
     "year": "2006-07",
-    "alumni": [
+    "members": [
       {
         "name": "Gursartaj Singh Nijjar",
         "role": "President",
@@ -1787,7 +1787,7 @@
   },
   {
     "year": "2005-06",
-    "alumni": [
+    "members": [
       {
         "name": "Abhisheyk Gaur",
         "role": "President",
@@ -1837,7 +1837,7 @@
   },
   {
     "year": "2004-05",
-    "alumni": [
+    "members": [
       {
         "name": "Karan Misra",
         "role": "President",
@@ -1882,7 +1882,7 @@
   },
   {
     "year": "2003-04",
-    "alumni": [
+    "members": [
       {
         "name": "Chander Bhushan",
         "role": "Teacher Coordinator",
@@ -1947,7 +1947,7 @@
   },
   {
     "year": "2002-03",
-    "alumni": [
+    "members": [
       {
         "name": "Shivinder Singh",
         "role": "President",
@@ -2002,7 +2002,7 @@
   },
   {
     "year": "2000-01",
-    "alumni": [
+    "members": [
       {
         "name": "Manas Mittal",
         "role": "President",
@@ -2042,7 +2042,7 @@
   },
   {
     "year": "1999-2000",
-    "alumni": [
+    "members": [
       {
         "name": "Ankit Wadhwa",
         "role": "President",
@@ -2082,7 +2082,7 @@
   },
   {
     "year": "1998-99",
-    "alumni": [
+    "members": [
       {
         "name": "Rajat Sodhi",
         "role": "President",
@@ -2122,7 +2122,7 @@
   },
   {
     "year": "1997-98",
-    "alumni": [
+    "members": [
       {
         "name": "Sapan Bhatia",
         "role": "President",
@@ -2162,7 +2162,7 @@
   },
   {
     "year": "1996-97",
-    "alumni": [
+    "members": [
       {
         "name": "Sachin Hamirwasia",
         "role": "Programmer",
@@ -2207,7 +2207,7 @@
   },
   {
     "year": "1995-96",
-    "alumni": [
+    "members": [
       {
         "name": "Avnish Sud",
         "role": "President",
@@ -2237,7 +2237,7 @@
   },
   {
     "year": "1994-95",
-    "alumni": [
+    "members": [
       {
         "name": "Gaurav Lochan",
         "role": "President",
@@ -2267,7 +2267,7 @@
   },
   {
     "year": "1993-94",
-    "alumni": [
+    "members": [
       {
         "name": "Rahul Merwah",
         "role": "Founder, President",
